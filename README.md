@@ -1,4 +1,5 @@
 # ace-iac-day-zero (Lab 1 and Lab 2)
+# Added by VSC
 
 This repository builds out the following infrastructure for the Aviatrix ACE IaC course:
 
